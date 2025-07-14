@@ -40,7 +40,7 @@ const HeroSection = () => {
               Hire Me
             </Link>
             <Link
-              href="https://drive.google.com/file/d/1AAJ5iCoFMyFxf31mQB27WUodVqpRmwjM/view?usp=sharing"
+              href="https://drive.google.com/file/d/1vNLq2-8F-kaK2qIXr4UQ_9fUH7TbsQNy/view?usp=sharing"
               download
               target="_blank"
               rel="noopener noreferrer"
