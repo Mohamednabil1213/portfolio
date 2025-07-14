@@ -40,7 +40,7 @@ const HeroSection = () => {
               Hire Me
             </Link>
             <Link
-              href="/mohamed-nabil-cv.pdf"
+              href="https://drive.google.com/file/d/1AAJ5iCoFMyFxf31mQB27WUodVqpRmwjM/view?usp=sharing"
               download
               target="_blank"
               rel="noopener noreferrer"
