@@ -26,7 +26,7 @@ const projectsData = [
     id: 3,
     title: "Movie App",
     description: "Search and browse movies using a movie API with React and Redux.",
-    image: "/images/projects/movie.PNG",
+    image: "/images/projects/Movie.PNG",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Mohamednabil1213/movieApp",
     previewUrl: "https://movie-app-rose-alpha.vercel.app/",
